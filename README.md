@@ -1,2 +1,2 @@
-# apt-api
+# Apt-api
 An API for booking appointments
